@@ -1,3 +1,6 @@
 [submodule "WEATHERVUE"]
 	path = WEATHERVUE
 	url = https://github.com/thunderbird7413/WEATHERVUE.git
+[submodule "todoApp"]
+	path = todoApp
+	url = https://github.com/thunderbird7413/todoApp.git
