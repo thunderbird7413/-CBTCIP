@@ -1,0 +1,3 @@
+[submodule "WEATHERVUE"]
+	path = WEATHERVUE
+	url = https://github.com/thunderbird7413/WEATHERVUE.git
